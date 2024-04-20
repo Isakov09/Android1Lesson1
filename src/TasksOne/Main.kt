@@ -4,7 +4,7 @@ package TasksOne
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main(args: Array<String>) {
 
-    var car: String = "Автомобили из 90"
+    var carName: String
     val NUM: Int = 1990
     val word: String = "Doge Challenger"
     val result: String = NUM.toString() + word
